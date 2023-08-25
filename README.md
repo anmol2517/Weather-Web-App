@@ -3,7 +3,7 @@ This is very useful project. This project is used for any Weather Website.
 I have created weather app that fetch data from api and dynamically show its data in websites using HTML , CSS , Javascript.
 
 
-Features:
+# Features:
 
 1. Search Weather in Your City
 2. See Temperature
